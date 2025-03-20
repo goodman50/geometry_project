@@ -22,4 +22,5 @@ begin
     put("Cup Volume = " & cup_volume'Image & " inches");
     New_Line;
     put("Cup Surface Area = " & cup_surface_area'Image & " inches");
+    geometry_test_rectangle;
 end Geometry_Test;

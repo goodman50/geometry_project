@@ -2,6 +2,7 @@ with Ada.Float_Text_IO; use Ada.Float_Text_IO;
 with Ada.Integer_Text_IO; use Ada.Integer_Text_IO;
 with Ada.Text_IO; use Ada.Text_IO;
 with geometry; use geometry;
+with geometry_test_rectangle
 
 procedure Geometry_Test is
     -- procedure put_float(number : Float) is begin

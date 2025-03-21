@@ -26,4 +26,6 @@ begin
     New_Line;
     put("Cup Surface Area = " & cup_surface_area'Image & " inches");
     geometry_test_rectangle;
+    geometry_test_cylinder;
+    geometry_test_circle;
 end Geometry_Test;

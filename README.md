@@ -1,2 +1,2 @@
 # geometry_project
-Ada program to calculate geomatic shapes
+Ada program to calculate geometic shapes

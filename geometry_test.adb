@@ -4,7 +4,7 @@ with Ada.Text_IO; use Ada.Text_IO;
 with geometry; use geometry;
 with geometry_test_rectangle;
 with geometry_test_cylinder;
-with gemetry_test_circle;
+with geometry_test_circle;
 
 procedure Geometry_Test is
     -- procedure put_float(number : Float) is begin
